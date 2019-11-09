@@ -102,6 +102,7 @@ body,html{
 	background-color: #82ccdd;
 	padding: 10px;
 	position: relative;
+	box-shadow: 5px 5px 5px black;
 }
 .msg_cotainer_send{
 	margin-top: auto;
@@ -111,18 +112,19 @@ body,html{
 	background-color: #78e08f;
 	padding: 10px;
 	position: relative;
+	box-shadow: 5px 5px 5px black;
 }
 .msg_time{
 	position: absolute;
 	left: 0;
-	bottom: -15px;
+	bottom: -20px;
 	color: white;
 	font-size: 10px;
 }
 .msg_time_send{
 	position: absolute;
 	right:0;
-	bottom: -15px;
+	bottom: -20px;
 	color: white;
 	font-size: 10px;
 }
@@ -135,6 +137,7 @@ body,html{
 
 .msg_card_body{
 	overflow-y: auto;
+
 }
 		
 	
